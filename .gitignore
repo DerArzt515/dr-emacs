@@ -1,6 +1,11 @@
+.cache
+.dap-breakpoints
+.lsp-session-v1
 auto-save-list
 elpa
 eshell
 projectile-bookmarks.eld
 settings.el
 transient
+
+*~
